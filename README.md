@@ -20,6 +20,18 @@ real-time visual insights into customer satisfaction, product performance,
 rating trends, and keyword analysis — helping businesses make data-driven 
 decisions.
 
+### 🎯 Problem Statement
+Businesses receive thousands of customer reviews but struggle to manually 
+analyze them. This system automates the entire feedback analysis process 
+and presents meaningful insights through interactive visualizations.
+
+### 💡 Solution
+An end-to-end automated Customer Feedback Analysis System that:
+- Reads and processes raw customer review data
+- Detects sentiment using NLP techniques
+- Displays interactive charts and dashboards
+- Allows filtering, searching, and exporting data
+
 ---
 
 ## ✅ Features
