@@ -1,0 +1,111 @@
+review_id,customer_name,age,gender,product,category,rating,review_text,sentiment_label,location,date
+1,Alice Johnson,28,Female,Wireless Headphones,Electronics,5,"Absolutely love these headphones! Sound quality is amazing and battery life is fantastic. Will definitely buy again.",Positive,New York,2024-01-05
+2,Bob Smith,35,Male,Wireless Headphones,Electronics,2,"Poor build quality. The left ear cup broke after just 2 weeks. Very disappointed with this purchase.",Negative,Los Angeles,2024-01-07
+3,Carol White,22,Female,Smartphone Case,Accessories,4,"Great case fits perfectly and looks stylish. Only minor issue is it attracts fingerprints easily.",Positive,Chicago,2024-01-09
+4,David Lee,41,Male,Bluetooth Speaker,Electronics,5,"Best speaker I have ever owned! Crystal clear sound and super loud. Perfect for outdoor parties.",Positive,Houston,2024-01-10
+5,Emma Brown,19,Female,Laptop Stand,Office,1,"Terrible product. It wobbles constantly and fell apart within a day. Complete waste of money.",Negative,Phoenix,2024-01-12
+6,Frank Miller,54,Male,Wireless Headphones,Electronics,3,"Average headphones. Sound is okay but nothing special. Comfortable to wear for long hours though.",Neutral,Philadelphia,2024-01-13
+7,Grace Davis,30,Female,Smartphone Case,Accessories,5,"Perfect fit for my phone. The material feels premium and it has saved my phone from two drops already.",Positive,San Antonio,2024-01-15
+8,Henry Wilson,47,Male,Bluetooth Speaker,Electronics,4,"Really good speaker for the price. Bass could be better but overall very satisfied with this purchase.",Positive,San Diego,2024-01-17
+9,Iris Taylor,26,Female,Laptop Stand,Office,5,"Sturdy and well built. My neck pain has reduced significantly since I started using this stand.",Positive,Dallas,2024-01-18
+10,Jack Anderson,33,Male,USB Hub,Accessories,2,"Stopped working after a week. Two of the ports do not recognize devices. Very poor quality.",Negative,San Jose,2024-01-20
+11,Karen Thomas,45,Female,Wireless Headphones,Electronics,5,"Exceptional noise cancellation! I use these for work calls and everyone says my audio sounds crystal clear.",Positive,Austin,2024-01-21
+12,Liam Jackson,21,Male,Smartphone Case,Accessories,1,"Completely wrong size. The case does not fit my phone at all. Returning immediately.",Negative,Jacksonville,2024-01-23
+13,Mia Harris,29,Female,Bluetooth Speaker,Electronics,5,"I am obsessed with this speaker! Take it everywhere. The waterproof feature is absolutely great.",Positive,Fort Worth,2024-01-24
+14,Noah Martin,38,Male,Laptop Stand,Office,4,"Solid stand with good height adjustment. Assembly was a bit tricky but worth it in the end.",Positive,Columbus,2024-01-26
+15,Olivia Garcia,24,Female,USB Hub,Accessories,5,"Works perfectly with all my devices. Fast data transfer and reliable connection every single time.",Positive,Charlotte,2024-01-27
+16,Paul Martinez,52,Male,Wireless Headphones,Electronics,1,"Hurt my ears after 30 minutes. Returned them immediately. Very uncomfortable design.",Negative,Indianapolis,2024-01-28
+17,Quinn Robinson,31,Female,Smartphone Case,Accessories,4,"Nice looking case with good protection. Wireless charging still works through it which is a bonus.",Positive,San Francisco,2024-01-30
+18,Rachel Clark,27,Female,Bluetooth Speaker,Electronics,2,"Disconnects from Bluetooth every few minutes. Very frustrating experience. Not recommended at all.",Negative,Seattle,2024-02-01
+19,Sam Rodriguez,43,Male,Laptop Stand,Office,3,"Decent stand but wobbles slightly on smooth surfaces. Does the job but not outstanding quality.",Neutral,Denver,2024-02-03
+20,Tina Lewis,36,Female,USB Hub,Accessories,4,"Great hub with plenty of ports. Plug and play with no driver needed. Very convenient to use.",Positive,Nashville,2024-02-04
+21,Uma Walker,23,Female,Wireless Headphones,Electronics,5,"Incredible sound quality and super comfortable. I wear these for 8 hours straight with no discomfort.",Positive,Oklahoma City,2024-02-06
+22,Victor Hall,49,Male,Smartphone Case,Accessories,2,"Faded in color after just one month. Looks old and worn already. Disappointed with the quality.",Negative,El Paso,2024-02-07
+23,Wendy Allen,34,Female,Bluetooth Speaker,Electronics,5,"Phenomenal sound for such a small size. Battery lasts two full days. Highly recommend this product.",Positive,Boston,2024-02-09
+24,Xander Young,28,Male,Laptop Stand,Office,2,"Cheap plastic material. Does not hold the laptop securely. Feels like it could break any moment.",Negative,Portland,2024-02-10
+25,Yara Hernandez,41,Female,USB Hub,Accessories,3,"Works fine for basic use. Gets warm after extended use which is a bit concerning for longevity.",Neutral,Las Vegas,2024-02-12
+26,Zoe King,25,Female,Wireless Headphones,Electronics,4,"Really good headphones for the price. Noise cancellation works well in most environments.",Positive,Memphis,2024-02-13
+27,Aaron Wright,37,Male,Smartphone Case,Accessories,5,"Best phone case I have ever used. Drop tested multiple times and phone is always protected perfectly.",Positive,Louisville,2024-02-15
+28,Bella Scott,20,Female,Bluetooth Speaker,Electronics,1,"Terrible bass. Sounds tinny and weak. Completely misled by the product description and photos.",Negative,Baltimore,2024-02-16
+29,Chris Green,46,Male,Laptop Stand,Office,5,"Amazing quality and very stable. Built like a tank. My productivity has improved so much with this.",Positive,Milwaukee,2024-02-18
+30,Diana Adams,32,Female,USB Hub,Accessories,5,"Excellent product. All 7 ports work flawlessly. Great build quality and fast transfer speeds.",Positive,Albuquerque,2024-02-19
+31,Ethan Baker,55,Male,Wireless Headphones,Electronics,3,"Comfortable but sound quality is mediocre. Expected better noise cancellation at this price point.",Neutral,Tucson,2024-02-21
+32,Fiona Gonzalez,29,Female,Smartphone Case,Accessories,4,"Slim design and good grip. Protects corners well. Exactly what I was looking for in a phone case.",Positive,Fresno,2024-02-22
+33,George Nelson,44,Male,Bluetooth Speaker,Electronics,4,"Solid speaker with great battery life. Sound quality is impressive especially at higher volumes.",Positive,Sacramento,2024-02-24
+34,Hannah Carter,26,Female,Laptop Stand,Office,1,"Arrived damaged. One of the legs was cracked out of the box. Packaging was very poor.",Negative,Kansas City,2024-02-25
+35,Ian Mitchell,39,Male,USB Hub,Accessories,2,"Two ports stopped working after three days. Poor quality control and unreliable performance.",Negative,Mesa,2024-02-27
+36,Julia Perez,22,Female,Wireless Headphones,Electronics,5,"These are worth every penny! Rich sound and the mic quality during calls is absolutely superb.",Positive,Atlanta,2024-02-28
+37,Kevin Roberts,50,Male,Smartphone Case,Accessories,3,"Okay case but nothing special. Offers basic protection but feels a bit cheap in the hand.",Neutral,Omaha,2024-03-01
+38,Laura Turner,33,Female,Bluetooth Speaker,Electronics,5,"Mind blowing audio quality. Rich bass and clear treble. Best purchase I made this entire year.",Positive,Colorado Springs,2024-03-03
+39,Marcus Phillips,48,Male,Laptop Stand,Office,4,"Good quality stand. Sturdy and adjustable. My posture has improved noticeably since using it.",Positive,Raleigh,2024-03-04
+40,Nancy Campbell,27,Female,USB Hub,Accessories,1,"Complete junk. None of the ports worked properly from day one. Absolute waste of money.",Negative,Long Beach,2024-03-06
+41,Oscar Parker,42,Male,Wireless Headphones,Electronics,4,"Great headphones overall. Long battery life and comfortable design. Sound is clear and balanced.",Positive,Virginia Beach,2024-03-07
+42,Penny Evans,31,Female,Smartphone Case,Accessories,5,"Stunning design and superb protection. Got compliments on how nice my phone looks with this case.",Positive,Minneapolis,2024-03-09
+43,Quincy Edwards,56,Male,Bluetooth Speaker,Electronics,3,"Average sound quality. Not as loud as expected. Works fine for small rooms but struggles outdoors.",Neutral,Tampa,2024-03-10
+44,Rose Collins,24,Female,Laptop Stand,Office,5,"Perfect ergonomic stand. Assembly was easy and it holds my heavy laptop without any issue at all.",Positive,New Orleans,2024-03-12
+45,Steve Stewart,38,Male,USB Hub,Accessories,4,"Reliable and fast. All ports work great. Compact design makes it easy to carry around anywhere.",Positive,Arlington,2024-03-13
+46,Tara Sanchez,45,Female,Wireless Headphones,Electronics,2,"Headband broke within a month of normal use. Build quality is really poor for the asking price.",Negative,Bakersfield,2024-03-15
+47,Ulrich Morris,60,Male,Smartphone Case,Accessories,4,"Good looking case with solid build. Edges are reinforced well and wireless charging compatible.",Positive,Honolulu,2024-03-16
+48,Vera Rogers,28,Female,Bluetooth Speaker,Electronics,5,"Outstanding speaker! Pairs instantly and the sound is incredibly rich and full. Love it completely.",Positive,Anaheim,2024-03-18
+49,Walter Reed,53,Male,Laptop Stand,Office,3,"Functional but unremarkable. Does what it promises but build quality could definitely be better.",Neutral,Aurora,2024-03-19
+50,Xena Cook,35,Female,USB Hub,Accessories,5,"Works perfectly out of the box. Fast charging and data ports. Excellent value for the price paid.",Positive,Santa Ana,2024-03-21
+51,Yasmine Bell,23,Female,Wireless Mouse,Electronics,5,"Smooth and precise tracking. The ergonomic design fits my hand perfectly after long work sessions.",Positive,Corpus Christi,2024-03-22
+52,Zachary Foster,40,Male,Wireless Mouse,Electronics,4,"Good mouse overall. Battery life is impressive and the scroll wheel is very smooth and responsive.",Positive,Riverside,2024-03-24
+53,Amber Hughes,29,Female,Mechanical Keyboard,Electronics,5,"Typing on this keyboard is an absolute joy. Tactile feedback is excellent. Highly recommended!",Positive,St. Louis,2024-03-25
+54,Brandon Price,34,Male,Mechanical Keyboard,Electronics,2,"Keys started double registering after two weeks. Very frustrating for typing and gaming daily.",Negative,Lexington,2024-03-27
+55,Chloe Bennett,21,Female,Webcam HD,Electronics,5,"Video quality is stunning. Colors are accurate and it handles low light incredibly well. Perfect!",Positive,Pittsburgh,2024-03-28
+56,Derek Wood,47,Male,Webcam HD,Electronics,1,"Blurry image and terrible autofocus. Looks worse than my phone camera. Very disappointing product.",Negative,Anchorage,2024-03-30
+57,Elena Ross,26,Female,Wireless Mouse,Electronics,3,"Decent mouse but the side buttons feel cheap. Tracking is acceptable for everyday office work.",Neutral,Stockton,2024-04-01
+58,Felix Gray,32,Male,Mechanical Keyboard,Electronics,4,"Great keyboard with satisfying key presses. A little loud but that is expected with mechanical switches.",Positive,Cincinnati,2024-04-02
+59,Gina Morgan,38,Female,Webcam HD,Electronics,4,"Really sharp image quality. Easy plug and play setup. Works great for video calls and streaming.",Positive,St. Paul,2024-04-04
+60,Hector Bryant,44,Male,Laptop Stand,Office,2,"Too wobbly for heavy laptops. Looks nice but functionality is very disappointing for the price.",Negative,Toledo,2024-04-05
+61,Isabella Flores,27,Female,Wireless Mouse,Electronics,5,"Extremely responsive and comfortable. No lag whatsoever. Best mouse I have used in years.",Positive,Greensboro,2024-04-07
+62,James Reed,51,Male,Smartphone Case,Accessories,2,"Yellowed after just three weeks of use. Looks terrible already. Very poor quality material used.",Negative,Newark,2024-04-08
+63,Kara Russell,30,Female,Bluetooth Speaker,Electronics,4,"Impressive sound for its compact size. Connects quickly and holds signal even from another room.",Positive,Plano,2024-04-10
+64,Logan Barnes,25,Male,Mechanical Keyboard,Electronics,5,"This keyboard transformed my work setup. Typing speed improved and fatigue reduced significantly.",Positive,Henderson,2024-04-11
+65,Maya Rivera,36,Female,USB Hub,Accessories,3,"Gets the job done but nothing impressive. Works with most devices but occasionally drops connection.",Neutral,Lincoln,2024-04-13
+66,Nathan Cooper,43,Male,Webcam HD,Electronics,5,"Exceptional clarity and wide angle view. The privacy shutter is a fantastic added security feature.",Positive,Buffalo,2024-04-14
+67,Nina Richardson,28,Female,Wireless Headphones,Electronics,4,"Comfortable fit and decent sound. ANC is not the strongest but good enough for regular office use.",Positive,Fort Wayne,2024-04-16
+68,Oliver Bell,39,Male,Wireless Mouse,Electronics,1,"Stopped connecting after five days. Tried new batteries and different USB receivers. Still broken.",Negative,Jersey City,2024-04-17
+69,Paige Murphy,22,Female,Laptop Stand,Office,5,"Very sturdy and sleek looking. Cable management holes are a great design touch. Love this stand.",Positive,Chula Vista,2024-04-19
+70,Ricky James,46,Male,Bluetooth Speaker,Electronics,3,"Okay for casual listening. Sound can get distorted at maximum volume. Fine for background music.",Neutral,Orlando,2024-04-20
+71,Sophia Hill,33,Female,Mechanical Keyboard,Electronics,1,"Keycap legends started fading after just one month of use. Not acceptable at this price range.",Negative,St. Petersburg,2024-04-22
+72,Thomas Ward,57,Male,Webcam HD,Electronics,3,"Average camera for the price. Works fine for basic calls but nothing special about image quality.",Neutral,Laredo,2024-04-23
+73,Ursula Cox,24,Female,Smartphone Case,Accessories,5,"Exactly as described. Slim protective and looks really premium. Very happy with this purchase.",Positive,Norfolk,2024-04-25
+74,Vincent Peterson,41,Male,USB Hub,Accessories,4,"Solid build and all ports work reliably. Power delivery is fast. Great buy for home office use.",Positive,Madison,2024-04-26
+75,Willa Ramirez,29,Female,Wireless Headphones,Electronics,2,"Microphone picks up too much background noise. Callers always complain they can hear everything.",Negative,Durham,2024-04-28
+76,Xander Hughes,35,Male,Wireless Mouse,Electronics,4,"Lightweight and precise. DPI settings are easy to switch on the fly. Great for both work and play.",Positive,Lubbock,2024-04-29
+77,Yasmin Sanders,31,Female,Bluetooth Speaker,Electronics,5,"Exceptional bass response and crystal clear highs. Battery life is incredible. Absolutely love it!",Positive,Winston-Salem,2024-05-01
+78,Zack Griffin,48,Male,Laptop Stand,Office,4,"Well built and stable. Height and angle are easily adjustable. Great improvement for my posture.",Positive,Garland,2024-05-02
+79,Abby Foster,26,Female,Mechanical Keyboard,Electronics,4,"Satisfying to type on and looks great on my desk. RGB lighting is vibrant and easy to customize.",Positive,Scottsdale,2024-05-04
+80,Ben Murray,53,Male,Webcam HD,Electronics,2,"Microphone picks up terrible echo. Video is okay but not worth it due to bad built-in microphone.",Negative,Irving,2024-05-05
+81,Casey Simmons,37,Female,Smartphone Case,Accessories,3,"Fits well and offers decent drop protection. Nothing exceptional but gets the job done fine.",Neutral,Fremont,2024-05-07
+82,Dana Patterson,44,Female,USB Hub,Accessories,5,"This hub is a game changer for my workspace. Seven reliable ports and very fast data transfer speeds.",Positive,Baton Rouge,2024-05-08
+83,Eli Powell,30,Male,Wireless Mouse,Electronics,3,"Feels okay in hand but the scroll wheel is a bit stiff. Accurate tracking for everyday basic tasks.",Neutral,Richmond,2024-05-10
+84,Faye Jenkins,27,Female,Bluetooth Speaker,Electronics,2,"Sound quality degraded noticeably after two months of regular use. Bass completely disappeared.",Negative,Spokane,2024-05-11
+85,Gavin Perry,42,Male,Laptop Stand,Office,5,"Brilliant design and very solid construction. My desk setup looks and feels completely professional.",Positive,Des Moines,2024-05-13
+86,Haley Long,23,Female,Wireless Headphones,Electronics,4,"Solid audio performance with good comfort. Foldable design makes them very easy to carry around.",Positive,San Bernardino,2024-05-14
+87,Ian Butler,50,Male,Mechanical Keyboard,Electronics,3,"Average keyboard with acceptable performance. Nothing stands out but nothing is terrible either.",Neutral,Modesto,2024-05-16
+88,Jade Russell,28,Female,Webcam HD,Electronics,5,"Perfect for streaming! Colors are vibrant autofocus is fast and setup took under two minutes.",Positive,Fontana,2024-05-17
+89,Kyle Barnes,34,Male,Smartphone Case,Accessories,1,"Broke at the corner after one small drop from desk height. Absolutely zero protection whatsoever.",Negative,Columbus,2024-05-19
+90,Lara Coleman,39,Female,USB Hub,Accessories,4,"Works exactly as advertised. Compact and stylish. Powers all devices without any issues whatsoever.",Positive,Moreno Valley,2024-05-20
+91,Mike Henderson,46,Male,Wireless Mouse,Electronics,5,"Butter smooth movement on any surface. The grip feels premium. Would absolutely buy again without hesitation.",Positive,Tacoma,2024-05-22
+92,Nora Simmons,32,Female,Bluetooth Speaker,Electronics,4,"Wonderful sound quality for the compact size. Pairs instantly every time. Great travel companion.",Positive,Aurora,2024-05-23
+93,Owen Foster,55,Male,Laptop Stand,Office,1,"Extremely flimsy. Collapsed under the weight of my laptop on the very first day of use.",Negative,Oxnard,2024-05-25
+94,Priya Sharma,25,Female,Mechanical Keyboard,Electronics,5,"Outstanding build quality and a joy to type on. The sound dampening foam reduces noise perfectly.",Positive,Knoxville,2024-05-26
+95,Quinn Bailey,40,Male,Webcam HD,Electronics,4,"Sharp image and fast autofocus. Works seamlessly with Zoom and Teams. Highly recommended product.",Positive,Providence,2024-05-28
+96,Ruby Brooks,22,Female,Smartphone Case,Accessories,4,"Nice texture and great grip. The raised bezels protect my screen and camera effectively and reliably.",Positive,Akron,2024-05-29
+97,Samuel Torres,47,Male,USB Hub,Accessories,2,"Only three of the seven ports actually work reliably. Misleading product listing. Very disappointed.",Negative,Salt Lake City,2024-05-31
+98,Tamara Washington,36,Female,Wireless Headphones,Electronics,5,"Superb comfort and audio quality. Wore them for a 10 hour flight with zero discomfort. Outstanding!",Positive,Huntington Beach,2024-06-02
+99,Ulrich Mason,58,Male,Bluetooth Speaker,Electronics,3,"Decent speaker for casual use. Sound is clear but lacks depth. Fine for podcasts and quiet music.",Neutral,Glendale,2024-06-03
+100,Violet Webb,29,Female,Laptop Stand,Office,5,"Perfect ergonomic solution for home office. Rock solid stability and beautiful minimalist design.",Positive,Bakersfield,2024-06-05
+101,Wade Collins,43,Male,Mechanical Keyboard,Electronics,2,"Space bar developed a rattle noise after three weeks. Customer support was unhelpful and dismissive.",Negative,Tempe,2024-06-06
+102,Xara Fleming,31,Female,Webcam HD,Electronics,5,"Absolutely brilliant webcam. Makes me look professional on every video call. Well worth the price.",Positive,Cape Coral,2024-06-08
+103,Yolanda Reyes,26,Female,Smartphone Case,Accessories,4,"Love the matte finish. Does not add too much bulk and offers solid all around phone protection.",Positive,Reno,2024-06-09
+104,Zach Mason,38,Male,USB Hub,Accessories,3,"Functional but the build feels plasticky. Does the job for basic needs without any major complaints.",Neutral,Tallahassee,2024-06-11
+105,Amy Curtis,33,Female,Wireless Mouse,Electronics,4,"Comfortable and accurate. Side buttons are conveniently placed and very useful for daily productivity.",Positive,Montgomery,2024-06-12
+106,Brian Nguyen,27,Male,Wireless Headphones,Electronics,5,"Premium sound at a great price. The carrying case is a nice bonus. Very happy with this purchase.",Positive,Boise,2024-06-13
+107,Clara Owens,45,Female,Bluetooth Speaker,Electronics,1,"Arrived with a cracked grille. Packaging was completely inadequate for shipping. Will not order again.",Negative,Richmond,2024-06-14
+108,Dylan Park,22,Male,Laptop Stand,Office,4,"Great minimalist design. Holds my MacBook Pro perfectly steady. Would recommend to any desk worker.",Positive,Birmingham,2024-06-16
+109,Elise Turner,30,Female,Mechanical Keyboard,Electronics,5,"This keyboard is an absolute dream. Every keystroke feels deliberate and satisfying. Love it!",Positive,Rochester,2024-06-17
+110,Fred Chapman,52,Male,Webcam HD,Electronics,2,"Freezes frequently during long video calls. Very unreliable for professional use. Very disappointed.",Negative,Spokane,2024-06-19
